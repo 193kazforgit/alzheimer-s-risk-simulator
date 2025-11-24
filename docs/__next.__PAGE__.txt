@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97824,["/alzheimer-s-risk-simulator/_next/static/chunks/5bab93f39577e409.js","/alzheimer-s-risk-simulator/_next/static/chunks/4e9ef728507402a8.js"],"default"]
+3:I[97367,["/alzheimer-s-risk-simulator/_next/static/chunks/42879de7b8087bc9.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"RcFgMZf8jfS1pk2DFlqeZ","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-background","children":["$","$L2",null,{}]}],[["$","script","script-0",{"src":"/alzheimer-s-risk-simulator/_next/static/chunks/4e9ef728507402a8.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
